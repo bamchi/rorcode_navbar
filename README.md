@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The topic of today's video is the process of implementing a responsive NavigationBar with Stimulus.js.
 
-Things you may want to cover:
+One of the strengths of TailwindCSS is that you can easily get UI components.
 
-* Ruby version
+We will use the sample code from [https://tailwindui.com](https://tailwindui.com) or [https://tailwindcomponents.com](https://tailwindcomponents.com) as it is.
 
-* System dependencies
+The function of opening and closing the menu will be implemented through stimulus.js. It's not fun to just open and close, so I'll implement a simple animation.
 
-* Configuration
+It is an example that can be used for commercial services, so please refer to it.
 
-* Database creation
+The navigation bar example used in this repository can be found at this [[link]](https://tailwindui.com/components/marketing/elements/headers).
 
-* Database initialization
 
-* How to run the test suite
+## About rorcode.com
+This repository is a code that implements a navigation bar to be used on a site called RORCODE.
 
-* Services (job queues, cache servers, search engines, etc.)
+Rorcode (rorcode.com) is a lecture site on developing responsive web services with Rails7, Hotwire, and TailwindCSS. 
 
-* Deployment instructions
-
-* ...
+Using Hotwire and Stimulus.js, you can implement a SPA (Single Page Application) with only Ruby without knowing React.js or Vue.js.
